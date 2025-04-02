@@ -1,0 +1,8 @@
+Nome de usuário: aluna
+Senha: x
+UID: 1001
+GID principal: 1002
+GECOS: ,,,
+Diretório inicial: /home/aluna
+Shell:/bin/bash
+
